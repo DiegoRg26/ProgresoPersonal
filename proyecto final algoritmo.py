@@ -1,5 +1,3 @@
-#Kevin José Guerrero Hincapié
-#Marlon Lapeira Arias
 #Diego Alejandro Román Guzmán
 
 from os import system
